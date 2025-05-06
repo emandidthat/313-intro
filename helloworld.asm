@@ -1,3 +1,6 @@
+; Name: Emmanuel Aroh
+; Date: 5/5/25
+
 SECTION .data
 msg     db      'Hello World!', 0Ah
  
